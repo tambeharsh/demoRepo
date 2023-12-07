@@ -1,4 +1,4 @@
 # demoRepo
-This is my 1st repository on github
+This is my 1st Repository on Github
 <br>
 Author - Harsh Tambe
